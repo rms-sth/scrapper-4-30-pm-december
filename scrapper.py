@@ -3,6 +3,10 @@
 # python -m pip install beautifulsoup4
 # => parse html
 
+# git config --global user.name "Ramesh Pradhan"
+# git config --global user.email "pyrameshpradhan@gmail.com"
+
+
 import json
 import requests
 from bs4 import BeautifulSoup
